@@ -68,19 +68,9 @@ In this lab, we will:
 1. Read the File Generated from the Job Run
 2. View the DataFrame
 
-####Azure Databricks is a Unified Analytics Platform for Data Engineers, Data Scientist, and Analysis  
+#### Azure Databricks is a Unified Analytics Platform for Data Engineers, Data Scientist, and Analysis  
 ![arch](https://kpistoropen.blob.core.windows.net/collateral/roadshow/azure_roadshow_1.png)
 
-
------------------------------------------------------------------------------------------------------------------
-
-Read Mounted Data, Create DataFrames. 
-Pipeline for Feature Engineering
-Train a Spark ML Random Forest Model, Log MLFlow
-Streaming Data Source
-Constructing a Simple BI Report
-
---- Feature Engineering, Spark ML Random Forest Model, Log MLFlow, Streaming Data Source
 
 -----------------------------------------------------------------------------------------------------------------
 
