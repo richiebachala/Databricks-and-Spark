@@ -317,7 +317,7 @@ print("AUC: " + str(auc))                              # Print the performance m
 
 # COMMAND ----------
 
-mlflow.set_experiment("/Users/kristina.heinz@insight.com/final/marketing")
+mlflow.set_experiment("/Users/richie.bachala@gmail.com/final/marketing")
 
 # COMMAND ----------
 
